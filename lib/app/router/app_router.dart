@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 
-import '../../features/home/home_page.dart';
+import '../../features/home/presentation/page/home_page.dart';
 import '../../features/profile/profile_page.dart';
 import '../../features/map/map_page.dart';
 import '../../features/schedule/schedule_page.dart';
